@@ -35,13 +35,13 @@ We studied the entire dataset we had for the topic on Kaggle found all the impor
 * Outlier Analysis of Non-categorical Data
 * Histogram of all the attributes
 The idea of implementing svm classifier in Python is to use the phone specification features to train an SVM classifier and use the trained SVM model to predict the price_range.
-Next we tried a total of 9 Machine Learning Algorithms for each we made a confusion matrix and the most contributing features were found
-Logistic Regression
-Decision Tree(gini)
-Decision Tree(entropy)
-Random Forest
-KNN
-Naive Bayes
-SVM
+
+Next we tried a total of 9 Machine Learning Algorithms for each we made a confusion matrix and the most contributing features were found:
+* Logistic Regression
+* Decision Tree(gini)
+* Decision Tree(entropy)
+* Random Forest
+* Naive Bayes
+* SVM
 
 We compared the accuracies of all the models and found that SVM is the best classifier for our project
