@@ -1,4 +1,4 @@
-###<h1>module 20  segment 1: Mobile-Price-Classification-kaggle</h1>
+<h1>module 20  segment 1: Mobile-Price-Classification-kaggle</h1>
 
 This project has been implementing using python library like Numpy,Pandas to importing the data and design the data and also using Matplotlib and Seaborn for visualization for data.
 
@@ -26,7 +26,8 @@ three_g:Has 3G or not
 touch_screen:Has touch screen or not
 wifi:Has wifi or not
 
-###analysis
+<h2>analysis</h2>
+
 We studied the entire dataset we had for the topic on Kaggle found all the important information on the data we were going to work on
 * The Data Preprocessing
 * Description of Data
