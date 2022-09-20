@@ -27,9 +27,9 @@ wifi:Has wifi or not
 
 #analysis
 We studied the entire dataset we had for the topic on Kaggle found all the important information on the data we were going to work on
-The Data Preprocessing
-Description of Data
-Info about the data
+* The Data Preprocessing
+* Description of Data
+* Info about the data
 The Correlation between the attributes
 The attributes that are most correlated with the Price Range ( Our target )
 Outlier Analysis of Non-categorical Data
