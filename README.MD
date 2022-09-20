@@ -30,10 +30,10 @@ We studied the entire dataset we had for the topic on Kaggle found all the impor
 * The Data Preprocessing
 * Description of Data
 * Info about the data
-The Correlation between the attributes
-The attributes that are most correlated with the Price Range ( Our target )
-Outlier Analysis of Non-categorical Data
-Histogram of all the attributes
+* The Correlation between the attributes
+* The attributes that are most correlated with the Price Range ( Our target )
+* Outlier Analysis of Non-categorical Data
+* Histogram of all the attributes
 The idea of implementing svm classifier in Python is to use the phone specification features to train an SVM classifier and use the trained SVM model to predict the price_range.
 Next we tried a total of 9 Machine Learning Algorithms for each we made a confusion matrix and the most contributing features were found
 Logistic Regression
